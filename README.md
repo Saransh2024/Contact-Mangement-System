@@ -2,7 +2,7 @@
 
 Project Link- contact- https://contact-management-system-saransh.netlify.app
 
-Created an application to store the contact details of people entered by the Logged in User.
+o Created an application to store the contact details of people entered by the Logged in User.
 
 o The Logged in user can perform CRUD operations on his stored contacts.
 
